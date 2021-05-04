@@ -4,7 +4,7 @@ html {
 
 body {
     text-align: center;
-    background-color: #FFF0F5;
+    background-color: #1C1C1C;
     font-family: Roboto Mono;
     font-style: normal;
     font-weight: normal;
@@ -18,7 +18,7 @@ section {
 
 h1 {
     font-size: 30px;
-    color: black;
+    color: white;
 }
 
 #profile {
@@ -33,7 +33,7 @@ h1 {
 }
 
 .name {
-    color: #8B3A3A;
+    color: #00FF00;
     font-family: "Roboto Mono", monospace;
     font-style: normal;
     font-weight: normal !important;
@@ -44,7 +44,7 @@ h1 {
 
 #bio {
     font-size: 15px;
-    color: #363636;
+    color: white;
     font-size: 15px;
     line-height: 20px;
     text-align: center;
@@ -63,7 +63,7 @@ h1 {
 }
 
 .iconBio {
-    color: #CD5555;
+    color: #00FF00;
     text-decoration: none;
     display: -webkit-inline-box;
     flex-direction: row;
@@ -76,7 +76,7 @@ h1 {
 }
 
 .iconBio:hover {
-    color: #363636;
+    color: #e5e5e5;
     text-decoration: none;
 }
 
