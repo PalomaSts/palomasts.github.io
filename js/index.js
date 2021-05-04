@@ -1,5 +1,4 @@
-// const reposToIgnore = ['Cristuker/You-Dont-Know-JS' , 'Cristuker/Form-example' , 'Cristuker/DiarioClasseDigital' , 
-// 'Cristuker/api-restful-typescript', 'Cristuker/eloquente-javascript' , 'Cristuker/Cristuker' , 'Cristuker/rxjs', 'Cristuker/elixir-prac'];
+const reposToIgnore = ['PalomaSts/livro-receitas'];
 
 function changeLanguage(language = 'pt') {
 
