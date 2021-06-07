@@ -1,4 +1,3 @@
-# Em construção #
 # ⚛ Tecnologias
 
 * HTML
