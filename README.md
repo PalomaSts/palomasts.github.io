@@ -7,4 +7,4 @@
 
 <br />
 
-* <a href="https://palomasts.github.io/">Acesse aqui</a>
+* <a href="https://palomasts.github.io/" target="_blank">Acesse aqui</a>
